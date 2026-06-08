@@ -43,9 +43,9 @@ I run [**Cap**](https://cap.so) (open-source Loom alternative) self-hosted and c
 
 **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)** — recent contributions:
 
-- ✅ **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): record button in folder page · *merged*
-- 🔵 **[#1890](https://github.com/CapSoftware/Cap/pull/1890)** — feat(folders): public folder sharing via signed link · *open*
-- 🔵 **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder dialogs · *open*
+- 🔵 **[#1890](https://github.com/CapSoftware/Cap/pull/1890)** — feat(folders): public sharing of a folder via a signed link · *open*
+- 🔵 **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder create/subfolder dialogs · *open*
+- ✅ **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): allow starting a new recording from inside a folder · *merged*
 
 <!-- CAP_PRS:END -->
 
