@@ -104,9 +104,9 @@ I run [**Cap**](https://cap.so) (open-source Loom alternative) self-hosted and p
 
 - 🔵 **[#1907](https://github.com/CapSoftware/Cap/pull/1907)** — feat(share): configurable call-to-action button on shared videos · *open*
 - 🔵 **[#1900](https://github.com/CapSoftware/Cap/pull/1900)** — feat(emails): pluggable email provider (Resend + SMTP) · *open*
-- ✅ **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): allow starting a new recording from inside a folder · *merged*
-- ✅ **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder create/subfolder dialogs · *merged*
 - ⚪ **[#1890](https://github.com/CapSoftware/Cap/pull/1890)** — feat(folders): public sharing of a folder via a signed link · *closed*
+- ✅ **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder create/subfolder dialogs · *merged*
+- ✅ **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): allow starting a new recording from inside a folder · *merged*
 
 <!-- CAP_PRS:END -->
 
