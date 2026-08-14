@@ -32,7 +32,7 @@ name:        Alexis Morain
 role:        Builder, indie hacker, freelance growth + automation
 location:    France 🇫🇷
 focus:       shipping small useful products, self-hosting, automating workflows
-currently:   running a full homelab media stack and a self-hosted CRM
+currently:   building Colophon, an open-source photo-album app for print
 open_to:     freelance missions (Malt) and interesting collaborations
 ```
 
@@ -46,6 +46,22 @@ I like building things end to end: a Python bot, a React app, an n8n workflow, a
 |---|---|---|
 | **[saasradar](https://github.com/alexis-morain/saasradar)** | TypeScript | Curated directory of SaaS tools, independently reviewed |
 | **[secret-santa](https://github.com/alexis-morain/secret-santa)** | React · Vite | Festive Secret Santa web app, no signup, shareable links 🎅 |
+
+### 🖼️ Currently building: **Colophon**
+
+A free, offline desktop app that turns a folder of photos into a print-ready album in under a minute. Point it at a folder, it curates the take and lays out the whole book automatically, and every decision stays editable. Export a 300 dpi PDF for any print shop. No account, no cloud, and it never touches your originals.
+
+Under the hood: a Rust engine that scans, dedups, scores sharpness and finds faces, a constrained layout composer, and a built-in linter of ten counters that grades the draft before you do. Interface in React behind a Tauri shell.
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white">
+  <img alt="GPL-3.0" src="https://img.shields.io/badge/License-GPL_3.0-A42E2B?style=flat&logo=gnu&logoColor=white">
+  <img alt="Status" src="https://img.shields.io/badge/status-in_development-E5A00D?style=flat">
+</p>
+
+> Private during development. Source opens, and the repo goes public, at launch.
 
 A few more I keep private for now: a Polymarket quant bot betting on Paris daily max temperature, a dual-momentum (GEM Antonacci) rebalancer for Trading 212, and my personal site built with Astro.
 
