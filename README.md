@@ -64,16 +64,16 @@ Under the hood: a Rust engine that scans, dedups, scores sharpness and finds fac
 
 <div align="center">
   <a href="https://github.com/alexis-morain/colophon">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-morain&repo=colophon&theme=tokyonight&hide_border=true" alt="colophon">
+    <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=colophon&theme=tokyonight&hide_border=true" alt="colophon">
   </a>
   <a href="https://github.com/alexis-morain/verbatim-linkedin">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-morain&repo=verbatim-linkedin&theme=tokyonight&hide_border=true" alt="verbatim-linkedin">
+    <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=verbatim-linkedin&theme=tokyonight&hide_border=true" alt="verbatim-linkedin">
   </a>
   <a href="https://github.com/alexis-morain/permis-cotier">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-morain&repo=permis-cotier&theme=tokyonight&hide_border=true" alt="permis-cotier">
+    <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=permis-cotier&theme=tokyonight&hide_border=true" alt="permis-cotier">
   </a>
   <a href="https://github.com/alexis-morain/slopradar">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexis-morain&repo=slopradar&theme=tokyonight&hide_border=true" alt="slopradar">
+    <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=slopradar&theme=tokyonight&hide_border=true" alt="slopradar">
   </a>
 </div>
 
@@ -216,10 +216,14 @@ flowchart LR
 
 ## 📊 GitHub stats
 
+<!-- Cards served by my own github-readme-stats instance (fork deployed on Vercel).
+     The public instance kept going down; this one is mine. Needs PAT_1 set in
+     the Vercel project env. Redeploy: vercel deploy --prod from the fork. -->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexis-morain&show_icons=true&theme=tokyonight&hide_border=true">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-morain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true">
+<img height="165" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api?username=alexis-morain&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="165" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/top-langs/?username=alexis-morain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true">
 
 <img src="https://streak-stats.demolab.com?user=alexis-morain&theme=tokyonight&hide_border=true" alt="streak">
 
@@ -229,7 +233,6 @@ flowchart LR
   <img width="92%" alt="contribution snake" src="https://raw.githubusercontent.com/alexis-morain/alexis-morain/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=alexis-morain&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity" alt="activity graph">
 
 </div>
 
