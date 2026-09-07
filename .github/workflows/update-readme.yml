@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Update Cap PRs section
+      - name: Update upstream PR section
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-prs.mjs
