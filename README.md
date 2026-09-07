@@ -98,14 +98,14 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**18 pull requests merged upstream**, 8 in review, across 7 projects.
+**18 pull requests merged upstream**, 9 in review, across 7 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
 | **[Shelv](https://github.com/gatzenga/Shelv)** | Native Navidrome player for Apple platforms | 10 | 3 |
 | **[one_second_diary](https://github.com/KyleKun/one_second_diary)** | Minimalist video diary, one second a day | 3 | — |
+| **[octo-fiesta](https://github.com/V1ck3s/octo-fiesta)** | Subsonic proxy that merges several music sources | 2 | 2 |
 | **[Cap](https://github.com/CapSoftware/Cap)** | Open source Loom alternative | 2 | 2 |
-| **[octo-fiesta](https://github.com/V1ck3s/octo-fiesta)** | Subsonic proxy that merges several music sources | 2 | 1 |
 | **[decluttarr](https://github.com/ManiMatter/decluttarr)** | Download queue cleaner for the \*arr stack | 1 | — |
 | **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** | macOS menu bar toolkit | 0 | 1 |
 | **[motis](https://github.com/motis-project/motis)** | Multimodal routing and map tiles engine | 0 | 1 |
@@ -127,18 +127,19 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 - **[#153](https://github.com/KyleKun/one_second_diary/pull/153)** — fix(ios): two device-blocking crashes, and main compiles again · ✅ *merged*
 - **[#152](https://github.com/KyleKun/one_second_diary/pull/152)** — feat(ios): make the app run on iOS · ✅ *merged*
 
+**[V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta)**
+
+- **[#314](https://github.com/V1ck3s/octo-fiesta/pull/314)** — fix(subsonic): drop irrelevant provider playlists from search3 · 🔵 *in review*
+- **[#312](https://github.com/V1ck3s/octo-fiesta/pull/312)** — feat(subsonic): merge provider catalogue into getTopSongs · 🔵 *in review*
+- **[#267](https://github.com/V1ck3s/octo-fiesta/pull/267)** — feat(lyrics): synced lyrics for external tracks via LRCLIB · ✅ *merged*
+- **[#265](https://github.com/V1ck3s/octo-fiesta/pull/265)** — feat(qobuz): support custom App ID/secret for tokens not issued by the web player · ✅ *merged*
+
 **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)**
 
 - **[#1907](https://github.com/CapSoftware/Cap/pull/1907)** — feat(share): configurable call-to-action button on shared videos · 🔵 *in review*
 - **[#1900](https://github.com/CapSoftware/Cap/pull/1900)** — feat(emails): pluggable email provider (Resend + SMTP) · 🔵 *in review*
 - **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): allow starting a new recording from inside a folder · ✅ *merged*
 - **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder create/subfolder dialogs · ✅ *merged*
-
-**[V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta)**
-
-- **[#312](https://github.com/V1ck3s/octo-fiesta/pull/312)** — feat(subsonic): merge provider catalogue into getTopSongs · 🔵 *in review*
-- **[#267](https://github.com/V1ck3s/octo-fiesta/pull/267)** — feat(lyrics): synced lyrics for external tracks via LRCLIB · ✅ *merged*
-- **[#265](https://github.com/V1ck3s/octo-fiesta/pull/265)** — feat(qobuz): support custom App ID/secret for tokens not issued by the web player · ✅ *merged*
 
 **[ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr)**
 
