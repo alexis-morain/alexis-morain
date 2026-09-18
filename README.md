@@ -98,7 +98,7 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**20 pull requests merged upstream**, 7 in review, across 7 projects.
+**20 pull requests merged upstream**, 6 in review, across 6 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
@@ -107,7 +107,6 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 | **[one_second_diary](https://github.com/KyleKun/one_second_diary)** | Minimalist video diary, one second a day | 3 | — |
 | **[Cap](https://github.com/CapSoftware/Cap)** | Open source Loom alternative | 2 | 2 |
 | **[decluttarr](https://github.com/ManiMatter/decluttarr)** | Download queue cleaner for the \*arr stack | 1 | — |
-| **[vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** | macOS menu bar toolkit | 0 | 1 |
 | **[motis](https://github.com/motis-project/motis)** | Multimodal routing and map tiles engine | 0 | 1 |
 
 <details>
@@ -144,10 +143,6 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 **[ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr)**
 
 - **[#364](https://github.com/ManiMatter/decluttarr/pull/364)** — feat(remove_metadata_missing): detect stuck metadata for non-qBittorrent clients (opt-in) · ✅ *merged*
-
-**[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)**
-
-- **[#1103](https://github.com/vorssaint/vorssaint-utils/pull/1103)** — fix(command-bar): give the field back Cmd+A, C, X and V · 🔵 *in review*
 
 **[motis-project/motis](https://github.com/motis-project/motis)**
 
