@@ -98,12 +98,13 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**20 pull requests merged upstream**, 6 in review, across 6 projects.
+**24 pull requests merged upstream**, 6 in review, across 7 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
 | **[Shelv](https://github.com/gatzenga/Shelv)** | Native Navidrome player for Apple platforms | 10 | 3 |
 | **[octo-fiesta](https://github.com/V1ck3s/octo-fiesta)** | Subsonic proxy that merges several music sources | 4 | — |
+| **[huberdiere-site](https://github.com/La-Huberdiere/huberdiere-site)** | — | 4 | — |
 | **[one_second_diary](https://github.com/KyleKun/one_second_diary)** | Minimalist video diary, one second a day | 3 | — |
 | **[Cap](https://github.com/CapSoftware/Cap)** | Open source Loom alternative | 2 | 2 |
 | **[decluttarr](https://github.com/ManiMatter/decluttarr)** | Download queue cleaner for the \*arr stack | 1 | — |
@@ -126,6 +127,13 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 - **[#312](https://github.com/V1ck3s/octo-fiesta/pull/312)** — feat(subsonic): merge provider catalogue into getTopSongs · ✅ *merged*
 - **[#267](https://github.com/V1ck3s/octo-fiesta/pull/267)** — feat(lyrics): synced lyrics for external tracks via LRCLIB · ✅ *merged*
 - **[#265](https://github.com/V1ck3s/octo-fiesta/pull/265)** — feat(qobuz): support custom App ID/secret for tokens not issued by the web player · ✅ *merged*
+
+**[La-Huberdiere/huberdiere-site](https://github.com/La-Huberdiere/huberdiere-site)**
+
+- **[#4](https://github.com/La-Huberdiere/huberdiere-site/pull/4)** — feat(rapport): reporting SEO client mensuel sur Vercel (v2) · ✅ *merged*
+- **[#3](https://github.com/La-Huberdiere/huberdiere-site/pull/3)** — ci(report): recrée le workflow sous un nouveau nom (fix 500) · ✅ *merged*
+- **[#2](https://github.com/La-Huberdiere/huberdiere-site/pull/2)** — ci(report): déclenche le rapport sur push reporting/** · ✅ *merged*
+- **[#1](https://github.com/La-Huberdiere/huberdiere-site/pull/1)** — Reporting SEO/GEO client mensuel (GitHub Action + Pages) · ✅ *merged*
 
 **[KyleKun/one_second_diary](https://github.com/KyleKun/one_second_diary)**
 
