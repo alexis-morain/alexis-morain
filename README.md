@@ -98,11 +98,10 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**24 pull requests merged upstream**, 5 in review, across 7 projects.
+**14 pull requests merged upstream**, 2 in review, across 6 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
-| **[Shelv](https://github.com/gatzenga/Shelv)** | Native Navidrome player for Apple platforms | 10 | 3 |
 | **[octo-fiesta](https://github.com/V1ck3s/octo-fiesta)** | Subsonic proxy that merges several music sources | 4 | — |
 | **[huberdiere-site](https://github.com/La-Huberdiere/huberdiere-site)** | — | 4 | — |
 | **[one_second_diary](https://github.com/KyleKun/one_second_diary)** | Minimalist video diary, one second a day | 3 | — |
@@ -112,14 +111,6 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 
 <details>
 <summary><b>Every pull request, most recent first</b></summary>
-
-**[gatzenga/Shelv](https://github.com/gatzenga/Shelv)**
-
-- **[#48](https://github.com/gatzenga/Shelv/pull/48)** — feat: stream the original at home without asking for a location · 🔵 *in review*
-- **[#47](https://github.com/gatzenga/Shelv/pull/47)** — fix: say when the artist page fell back to downloads · ✅ *merged*
-- **[#46](https://github.com/gatzenga/Shelv/pull/46)** — fix: make the tvOS target build again · ✅ *merged*
-- **[#45](https://github.com/gatzenga/Shelv/pull/45)** — fix: make the request-coalescing test stop racing itself · ✅ *merged*
-- *…and 9 more on [Shelv](https://github.com/gatzenga/Shelv/pulls?q=is%3Apr+author%3Aalexis-morain)*
 
 **[V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta)**
 
