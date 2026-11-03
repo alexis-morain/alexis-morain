@@ -98,14 +98,14 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**15 pull requests merged upstream**, 1 in review, across 6 projects.
+**15 pull requests merged upstream**, 0 in review, across 6 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
 | **[octo-fiesta](https://github.com/V1ck3s/octo-fiesta)** | Subsonic proxy that merges several music sources | 4 | — |
 | **[huberdiere-site](https://github.com/La-Huberdiere/huberdiere-site)** | — | 4 | — |
 | **[one_second_diary](https://github.com/KyleKun/one_second_diary)** | Minimalist video diary, one second a day | 3 | — |
-| **[Cap](https://github.com/CapSoftware/Cap)** | Open source Loom alternative | 2 | 1 |
+| **[Cap](https://github.com/CapSoftware/Cap)** | Open source Loom alternative | 2 | — |
 | **[motis](https://github.com/motis-project/motis)** | Multimodal routing and map tiles engine | 1 | — |
 | **[decluttarr](https://github.com/ManiMatter/decluttarr)** | Download queue cleaner for the \*arr stack | 1 | — |
 
@@ -134,7 +134,6 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 
 **[CapSoftware/Cap](https://github.com/CapSoftware/Cap)**
 
-- **[#1900](https://github.com/CapSoftware/Cap/pull/1900)** — feat(emails): pluggable email provider (Resend + SMTP) · 🔵 *in review*
 - **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): allow starting a new recording from inside a folder · ✅ *merged*
 - **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder create/subfolder dialogs · ✅ *merged*
 
