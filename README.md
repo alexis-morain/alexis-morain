@@ -32,7 +32,7 @@ name:        Alexis Morain
 role:        Builder, indie hacker, freelance growth + automation
 location:    France 🇫🇷
 focus:       shipping small useful products, self-hosting, automating workflows
-currently:   Colophon, a desktop app that lays out a photo book from a folder
+currently:   Booklibre, a desktop app that lays out a photo book from a folder
 open_to:     freelance missions (Malt) and interesting collaborations
 ```
 
@@ -40,17 +40,17 @@ I build things end to end: a Rust engine, a React app, an n8n workflow, a Docker
 
 ---
 
-## 🖼️ Colophon — what I spend my nights on
+## 🖼️ Booklibre — what I spend my nights on
 
-**[colophon](https://github.com/alexis-morain/colophon)** turns a folder of photos into a print-ready album in under a minute. Point it at a folder, it reads the files, throws out what would weaken the book, lays out every spread, and hands you a draft you can argue with. Export a 300 dpi PDF, print it wherever you like.
+**[Booklibre](https://github.com/alexis-morain/booklibre)** turns a folder of photos into a print-ready album in under a minute. Point it at a folder, it reads the files, throws out what would weaken the book, lays out every spread, and hands you a draft you can argue with. Export a 300 dpi PDF, print it wherever you like.
 
-What Darktable is to Lightroom, Colophon is to Blurb. Free, offline, GPL-3.0. No account, no cloud, and it never writes to your originals.
+What Darktable is to Lightroom, Booklibre is to Blurb. Free, offline, GPL-3.0. No account, no cloud, and it never writes to your originals.
 
 Under the hood: a Rust engine that scans, dedups, scores sharpness and finds faces, a layout composer working under hard constraints instead of vibes, and a linter of ten counters that grades the draft before you do. Interface in React behind a Tauri shell. It reads JPEG, PNG, HEIC and camera RAW straight from the folder, and it respects the culling you already did in Lightroom.
 
 <p>
-  <a href="https://github.com/alexis-morain/colophon"><img alt="Repo" src="https://img.shields.io/badge/Source-alexis--morain/colophon-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://alexis-morain.github.io/colophon-site/"><img alt="Site" src="https://img.shields.io/badge/Website-colophon-24C8DB?style=flat&logo=astro&logoColor=white"></a>
+  <a href="https://github.com/alexis-morain/booklibre"><img alt="Repo" src="https://img.shields.io/badge/Source-alexis--morain/booklibre-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://booklibre.app"><img alt="Site" src="https://img.shields.io/badge/Website-booklibre.app-24C8DB?style=flat&logo=astro&logoColor=white"></a>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white">
@@ -63,8 +63,8 @@ Under the hood: a Rust engine that scans, dedups, scores sharpness and finds fac
 ## 🚀 What I'm building
 
 <div align="center">
-  <a href="https://github.com/alexis-morain/colophon">
-    <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=colophon&theme=tokyonight&hide_border=true" alt="colophon">
+  <a href="https://github.com/alexis-morain/booklibre">
+    <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=booklibre&theme=tokyonight&hide_border=true" alt="booklibre">
   </a>
   <a href="https://github.com/alexis-morain/verbatim-linkedin">
     <img width="49%" src="https://github-readme-stats-gilt-alpha-91.vercel.app/api/pin/?username=alexis-morain&repo=verbatim-linkedin&theme=tokyonight&hide_border=true" alt="verbatim-linkedin">
@@ -79,7 +79,7 @@ Under the hood: a Rust engine that scans, dedups, scores sharpness and finds fac
 
 | Project | Stack | What it does |
 |---|---|---|
-| **[colophon](https://github.com/alexis-morain/colophon)** | Rust · Tauri · React | A folder of photos in, a print-ready album out. Offline, GPL-3.0 |
+| **[booklibre](https://github.com/alexis-morain/booklibre)** | Rust · Tauri · React | A folder of photos in, a print-ready album out. Offline, GPL-3.0 |
 | **[verbatim-linkedin](https://github.com/alexis-morain/verbatim-linkedin)** | Python · Claude skills | A writing skill that interviews you first. It cannot write a sentence you did not say |
 | **[permis-cotier](https://github.com/alexis-morain/permis-cotier)** | Astro · React · TS | Free revision for the French coastal boating licence. Every question cites the regulation it comes from |
 | **[slopradar](https://github.com/alexis-morain/slopradar)** | Node · Playwright | Scores how much of a website came straight out of a default prompt. Deterministic, zero LLM in the score |
