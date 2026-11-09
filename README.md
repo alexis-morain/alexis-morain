@@ -42,7 +42,7 @@ I build things end to end: a Rust engine, a React app, an n8n workflow, a Docker
 
 ## 🖼️ Booklibre — what I spend my nights on
 
-**[Booklibre](https://github.com/alexis-morain/booklibre)** turns a folder of photos into a print-ready album in under a minute. Point it at a folder, it reads the files, throws out what would weaken the book, lays out every spread, and hands you a draft you can argue with. Export a 300 dpi PDF, print it wherever you like.
+**[Booklibre](https://github.com/alexis-morain/booklibre)** turns a folder of photos into a print-ready album in under a minute. Point it at a folder, it reads the files, throws out what would weaken the book, lays out every spread, and hands you a draft you can argue with. Export a 300 dpi PDF and print it wherever you like, or order the bound album from the app, delivered in France.
 
 What Darktable is to Lightroom, Booklibre is to Blurb. Free, offline, GPL-3.0. No account, no cloud, and it never writes to your originals.
 
@@ -55,7 +55,8 @@ Under the hood: a Rust engine that scans, dedups, scores sharpness and finds fac
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white">
   <img alt="GPL-3.0" src="https://img.shields.io/badge/License-GPL_3.0-A42E2B?style=flat&logo=gnu&logoColor=white">
-  <img alt="Status" src="https://img.shields.io/badge/status-pre--1.0,_macOS_today-E5A00D?style=flat">
+  <a href="https://github.com/alexis-morain/booklibre/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/alexis-morain/booklibre?style=flat&label=release&color=E5A00D"></a>
+  <img alt="Platforms" src="https://img.shields.io/badge/macOS_·_Windows-555555?style=flat">
 </p>
 
 ---
