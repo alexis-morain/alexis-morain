@@ -99,7 +99,7 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**15 pull requests merged upstream**, 1 in review, across 6 projects.
+**16 pull requests merged upstream**, 1 in review, across 7 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
@@ -107,6 +107,7 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 | **[huberdiere-site](https://github.com/La-Huberdiere/huberdiere-site)** | — | 4 | — |
 | **[one_second_diary](https://github.com/KyleKun/one_second_diary)** | Minimalist video diary, one second a day | 3 | — |
 | **[Cap](https://github.com/CapSoftware/Cap)** | Open source Loom alternative | 2 | 1 |
+| **[yakb](https://github.com/Its-Just-Nans/yakb)** | — | 1 | — |
 | **[motis](https://github.com/motis-project/motis)** | Multimodal routing and map tiles engine | 1 | — |
 | **[decluttarr](https://github.com/ManiMatter/decluttarr)** | Download queue cleaner for the \*arr stack | 1 | — |
 
@@ -138,6 +139,10 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 - **[#3693](https://github.com/CapSoftware/Cap/pull/3693)** — ci: publish versioned self-hosting images for each stable release · 🔵 *in review*
 - **[#1889](https://github.com/CapSoftware/Cap/pull/1889)** — feat(dashboard): allow starting a new recording from inside a folder · ✅ *merged*
 - **[#1888](https://github.com/CapSoftware/Cap/pull/1888)** — fix(dashboard): bypass Rive in folder create/subfolder dialogs · ✅ *merged*
+
+**[Its-Just-Nans/yakb](https://github.com/Its-Just-Nans/yakb)**
+
+- **[#2](https://github.com/Its-Just-Nans/yakb/pull/2)** — Boat: add an open-source mock exam site for the permis côtier · ✅ *merged*
 
 **[motis-project/motis](https://github.com/motis-project/motis)**
 
