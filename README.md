@@ -99,7 +99,7 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 <!-- OSS_PRS:START -->
 <!-- This section is auto-updated daily by .github/workflows/update-readme.yml -->
 
-**16 pull requests merged upstream**, 1 in review, across 7 projects.
+**16 pull requests merged upstream**, 2 in review, across 8 projects.
 
 | Project | What it is | Merged | In review |
 |---|---|:--:|:--:|
@@ -110,6 +110,7 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 | **[yakb](https://github.com/Its-Just-Nans/yakb)** | — | 1 | — |
 | **[motis](https://github.com/motis-project/motis)** | Multimodal routing and map tiles engine | 1 | — |
 | **[decluttarr](https://github.com/ManiMatter/decluttarr)** | Download queue cleaner for the \*arr stack | 1 | — |
+| **[koreader](https://github.com/koreader/koreader)** | — | 0 | 1 |
 
 <details>
 <summary><b>Every pull request, most recent first</b></summary>
@@ -151,6 +152,10 @@ I self-host a lot, so I hit the rough edges of these tools daily. When a fix is 
 **[ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr)**
 
 - **[#364](https://github.com/ManiMatter/decluttarr/pull/364)** — feat(remove_metadata_missing): detect stuck metadata for non-qBittorrent clients (opt-in) · ✅ *merged*
+
+**[koreader/koreader](https://github.com/koreader/koreader)**
+
+- **[#16432](https://github.com/koreader/koreader/pull/16432)** — Dictionaries: add Spanish-French Wiktionnaire with inflected forms · 🔵 *in review*
 
 </details>
 <!-- OSS_PRS:END -->
